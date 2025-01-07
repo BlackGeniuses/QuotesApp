@@ -4,7 +4,7 @@
 
 ## 📱 Features  
 
-- **Explore Quotes:** Browse an extensive collection of iconic quotes from popular movies.  
+- **Explore Quotes:** Browse an extensive collection of iconic quotes.  
 - **Category Selection:** Filter quotes by categories like genres, eras, or characters.  
 - **User Personalization:** Filter daily quotes based on preferences and mood.  
 - **Dynamic UI:** Enjoy a beautiful and responsive SwiftUI interface.  
@@ -21,7 +21,7 @@
 
 ### 1. Clone the Repository  
 ```bash  
-git clone https://github.com/your-username/quotes-app.git 
+git clone https://github.com/blackgeniuses/quotes-app.git 
 cd quotes-app
 ```
 
@@ -46,7 +46,7 @@ Complete a quick sign-up form.
 Create custom parameters for quotes based on moods and preferences.  
 
 ### Browse Quotes  
-Explore various categories of movie quotes.  
+Explore various categories of quotes.  
 
 
 ## 🤝 Contributions  
