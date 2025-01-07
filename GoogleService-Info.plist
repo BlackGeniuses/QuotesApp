@@ -1,0 +1,63 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">-->
+<!--<plist version="1.0">-->
+<!--<dict>-->
+<!--	<key>API_KEY</key>-->
+<!--	<string>AIzaSyAyT_aBjjQtt0itHjVPoZhB-tSZDJuNgtw</string>-->
+<!--	<key>GCM_SENDER_ID</key>-->
+<!--	<string>151039224515</string>-->
+<!--	<key>PLIST_VERSION</key>-->
+<!--	<string>1</string>-->
+<!--	<key>BUNDLE_ID</key>-->
+<!--	<string>blackinnovators.Quotes</string>-->
+<!--	<key>PROJECT_ID</key>-->
+<!--	<string>quotes-a37fe</string>-->
+<!--	<key>STORAGE_BUCKET</key>-->
+<!--	<string>quotes-a37fe.appspot.com</string>-->
+<!--	<key>IS_ADS_ENABLED</key>-->
+<!--	<false></false>-->
+<!--	<key>IS_ANALYTICS_ENABLED</key>-->
+<!--	<false></false>-->
+<!--	<key>IS_APPINVITE_ENABLED</key>-->
+<!--	<true></true>-->
+<!--	<key>IS_GCM_ENABLED</key>-->
+<!--	<true></true>-->
+<!--	<key>IS_SIGNIN_ENABLED</key>-->
+<!--	<true></true>-->
+<!--	<key>GOOGLE_APP_ID</key>-->
+<!--	<string>1:151039224515:ios:737e7a2843d9fd3bdf9076</string>-->
+<!--    <key>NSCameraUsageDescription</key>-->
+<!--    <string>We need access to your camera for AR experience</string>-->
+<!--</dict>-->
+<!--</plist>-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>API_KEY</key>
+    <string>AIzaSyAyT_aBjjQtt0itHjVPoZhB-tSZDJuNgtw</string>
+    <key>GCM_SENDER_ID</key>
+    <string>151039224515</string>
+    <key>PLIST_VERSION</key>
+    <string>1</string>
+    <key>BUNDLE_ID</key>
+    <string>blackinnovators.Quotes</string>
+    <key>PROJECT_ID</key>
+    <string>quotes-a37fe</string>
+    <key>STORAGE_BUCKET</key>
+    <string>quotes-a37fe.appspot.com</string>
+    <key>IS_ADS_ENABLED</key>
+    <false/>
+    <key>IS_ANALYTICS_ENABLED</key>
+    <false/>
+    <key>IS_APPINVITE_ENABLED</key>
+    <true/>
+    <key>IS_GCM_ENABLED</key>
+    <true/>
+    <key>IS_SIGNIN_ENABLED</key>
+    <true/>
+    <key>GOOGLE_APP_ID</key>
+    <string>1:151039224515:ios:737e7a2843d9fd3bdf9076</string>
+</dict>
+</plist>
+
