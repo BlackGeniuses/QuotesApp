@@ -8,8 +8,16 @@
 - **Category Selection:** Filter quotes by categories like genres, eras, or characters.  
 - **User Personalization:** Filter daily quotes based on preferences and mood.  
 - **Dynamic UI:** Enjoy a beautiful and responsive SwiftUI interface.  
-- **Day/Night Mode:** Adaptive background themes to enhance user experience.  
+- **Day/Night Mode:** Adaptive background themes to enhance user experience.
 
+
+
+
+  <div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/c42d8e34-e0e3-477f-97ee-acf14acf909e" alt="Screenshot 1" width="300">
+  <img src="https://github.com/user-attachments/assets/9f3affff-f376-4e45-a828-16ff4c25ed3e" alt="Screenshot 2" width="300">
+  <img src="https://github.com/user-attachments/assets/a5141e43-63f5-47e2-a7d3-8bd68765f766" alt="Screenshot 3" width="300">
+</div>
 ## 🛠️ Built With  
 
 - **SwiftUI:** Modern UI framework for building responsive and interactive interfaces.  
@@ -53,9 +61,6 @@ Explore various categories of quotes.
 
 Contributions are welcome! If you’d like to suggest new features or report issues, please open a pull request or an issue on this repository.  
 
-## 📜 License  
-
-This project is licensed under the [MIT License](LICENSE).  
 
 ## 💬 Acknowledgments  
 
